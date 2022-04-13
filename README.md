@@ -1,2 +1,0 @@
-# BusinessCentral
-AL Repository
